@@ -1,0 +1,14 @@
+[
+  {
+    "code" : "0",
+    "status" : "Opened"
+  },
+  {
+    "code" : "1",
+    "status" : "Waiting"
+  },
+  {
+    "code" : "2",
+    "status" : "Closed"
+  }
+]
