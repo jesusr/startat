@@ -6,7 +6,7 @@ var Ticket  = require('../model/ticket.model'),
   router.use(function(req, res, next) {
     console.log(new Date());
     next();
-  });
+  }); 
 router
 .route('/ticket')
   .get(function(req,res) {
